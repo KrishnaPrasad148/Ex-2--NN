@@ -145,16 +145,16 @@ print("Accuracy:", accuracy_score(classifier.predict(x_test), y_test) * 100)
 ```
 
 # OUTPUT:
-## DATASET(describe()):
+## DATASET (describe()):
 <img width="423" height="322" alt="dataset" src="https://github.com/user-attachments/assets/8c585e8b-05af-406f-aafe-9e76b721d153" />
 
-## SCATTER PLOT(2D):
+## SCATTER PLOT (2D):
 <img width="1021" height="597" alt="Scatter_2d" src="https://github.com/user-attachments/assets/e11ab490-986f-49c1-9c6f-f918fdc3babe" />
 
-## SCATTER PLOT(3D):
+## SCATTER PLOT (3D):
 <img width="503" height="495" alt="Scatter_3d" src="https://github.com/user-attachments/assets/ac2cd5c8-2e04-4391-8593-e4ccbf0091fa" />
 
-## GRAPH(Number of errors during each iteration):
+## GRAPH (Number of errors during each iteration):
 <img width="504" height="431" alt="graph" src="https://github.com/user-attachments/assets/fd76b8c5-ba9d-42a6-93d8-d42a811afc91" />
 
 
